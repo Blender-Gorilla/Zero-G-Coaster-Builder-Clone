@@ -1,0 +1,1 @@
+Click on 'Zero_G_Coaster_Builder_Clone.py' and then click the download button and import that into blender as an addon.
