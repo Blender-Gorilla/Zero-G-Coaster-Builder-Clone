@@ -1,0 +1,16 @@
+How to Use the New Features:
+🏗️ Add Support Beams:
+Select the curve
+
+Go to the sidebar → Coaster tab
+
+Click "Generate Supports"
+
+🌀 Apply Banking:
+Enter Edit Mode on the curve
+
+Select 1 or more control points
+
+Go to the sidebar → Banking Tools
+
+Click "Apply Banking to Selected Points" and set angle in degrees
