@@ -51,7 +51,7 @@ Click "Generate Supports"
 It creates vertical cylinders underneath the spline path
 
 6. 🎢 (Optional) Animate a Coaster Car (not in the script yet)
-If you want to animate a car or add a ride-along camera, I can help you extend the script — just ask.
+If you want to animate a car or add a ride-along camera tell me.
 
 ✏️ TIPS & EXTRA CONTROLS
 Task	How to Do It
