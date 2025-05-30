@@ -1,16 +1,77 @@
-How to Use the New Features:
-🏗️ Add Support Beams:
+🚀 USING THE ADD-ON (START TO FINISH)
+1. ✅ Create a Track
+Go to the Coaster tab
+
+Click "Create Coaster Track"
+
+A basic curved spline will appear
+
+2. 🌀 Edit the Track Shape
 Select the curve
 
-Go to the sidebar → Coaster tab
+Press Tab to enter Edit Mode
+
+Move the Bezier control points to shape your coaster
+
+To add loops/drops:
+
+Select a segment
+
+Press E to extrude new points
+
+Adjust handles (G) for curve control
+
+3. 🏁 Apply Banking (Roll)
+While still in Edit Mode:
+
+Select a control point
+
+Go to Coaster tab
+
+Click "Apply Banking to Selected Points"
+
+Set a Bank Angle (in degrees) — e.g., 30 or -45
+
+Banking = tilt (roll) of the track.
+
+4. 🧱 Generate the Track Mesh
+Exit Edit Mode (Tab)
+
+Make sure the track is selected
+
+Click "Mesh Track"
+
+This gives it a solid cross-section (rails/tubes)
+
+5. 🏗️ Add Support Beams
+Select the track
 
 Click "Generate Supports"
 
-🌀 Apply Banking:
-Enter Edit Mode on the curve
+It creates vertical cylinders underneath the spline path
 
-Select 1 or more control points
+6. 🎢 (Optional) Animate a Coaster Car (not in the script yet)
+If you want to animate a car or add a ride-along camera, I can help you extend the script — just ask.
 
-Go to the sidebar → Banking Tools
+✏️ TIPS & EXTRA CONTROLS
+Task	How to Do It
+Change tilt per segment	Select point(s) → Apply Banking
+Adjust track profile	Use Bevel Depth + Bevel Object
+Add more points	In Edit Mode → Ctrl + Right Click
+Make loops/inversions	Just bend the spline upward/downward
 
-Click "Apply Banking to Selected Points" and set angle in degrees
+🔧 Customization Ideas
+Add multiple curves for dual rails
+
+Use a bevel object instead of bevel depth for realistic track shapes
+
+Add custom materials/textures for rendering
+
+Add ride camera by parenting a camera to a car
+
+⚠️ Common Mistakes
+Issue	Fix
+Track isn't solid	Click "Mesh Track" again
+Supports not showing	Make sure curve is selected
+Banking has no effect	Must be in Edit Mode with points selected
+
